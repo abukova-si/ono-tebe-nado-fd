@@ -33,45 +33,4 @@ img {
 button {
   font: inherit;
 }
-.header__links-list-item_no-bullit {
-  list-style: none;
-}
-.header__link_active {
-  text-decoration: none;
-}
-.address__text {
-  padding: 0;
-}
-.overlay {
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-.bet-button {
-  all: unset;
-}
-.lots__card-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.card-link {
-  text-decoration: none;
-}
 
-.about__title {
-  margin: 0;
-}
-
-.footer__menu-list {
-  list-style: none;
-}
-
-.footer__menu-link_active {
-  text-decoration: none;
-}
-
-.footer__social-list {
-  list-style: none;
-}
